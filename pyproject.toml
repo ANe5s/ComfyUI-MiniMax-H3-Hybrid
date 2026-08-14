@@ -1,6 +1,6 @@
 ﻿[project]
 name = "comfyui-minimax-h3-hybrid"
-description = "ComfyUI MiniMax H3 reference-to-video workflow using a stronger FL2VA model and validated Ref2VA tensor-overlay modes to unlock MiniMax H3 capabilities."
+description = "A ComfyUI MiniMax H3 reference-to-video workflow for using a stronger FL2VA model and validated Ref2VA tensor-overlay modes to unlock MiniMax H3 capabilities."
 version = "1.0.0"
 requires-python = ">=3.9"
 dependencies = []
@@ -15,3 +15,4 @@ Issues = "https://github.com/ANe5s/ComfyUI-MiniMax-H3-Hybrid/issues"
 PublisherId = "ANe5s"
 DisplayName = "MiniMax H3 Hybrid Loader"
 includes = ["docs", "locales"]
+
