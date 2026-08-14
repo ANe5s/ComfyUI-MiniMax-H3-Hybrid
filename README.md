@@ -60,7 +60,7 @@ Copy this directory into `ComfyUI/custom_nodes/` and restart ComfyUI. The plugin
 
 ## License
 
-GPL-3.0-or-later. See `LICENSE.txt`.
+GPL-3.0-or-later. See `LICENSE`.
 
 ---
 
@@ -126,4 +126,4 @@ GPL-3.0-or-later. See `LICENSE.txt`.
 
 ## 许可证
 
-GPL-3.0-or-later，见 `LICENSE.txt`。
+GPL-3.0-or-later，见 `LICENSE`。

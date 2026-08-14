@@ -1,5 +1,7 @@
 """H3 FL2VA/Ref2VA hybrid checkpoint loader.
 
+Copyright (C) 2026 ANe5s
+
 SPDX-License-Identifier: GPL-3.0-or-later
 
 Loads a MiniMax H3 FL2VA checkpoint and optionally folds a validated set of

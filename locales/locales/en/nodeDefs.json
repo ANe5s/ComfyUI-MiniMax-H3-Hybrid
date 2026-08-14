@@ -1,0 +1,27 @@
+{
+  "MinimaxH3_HybridLoader": {
+    "display_name": "Minimax H3 hybrid loader",
+    "category": "ANe5s Nodes",
+    "description": "Load MiniMax H3 FL2VA with an optional validated Ref2VA tensor composition.",
+    "inputs": {
+      "base_model": {
+        "name": "Base model (FL2VA)",
+        "tooltip": "MiniMax H3 FL2VA checkpoint used as the base model."
+      },
+      "overlay_model": {
+        "name": "Overlay model (Ref2VA)",
+        "tooltip": "Optional Ref2VA checkpoint; ignored and not opened in none mode."
+      },
+      "overlay_preset": {
+        "name": "Overlay preset",
+        "tooltip": "none, block_range_adaln (45-49), or all_adaln."
+      }
+    },
+    "outputs": {
+      "0": {
+        "name": "Model",
+        "tooltip": "MiniMax H3 model loaded with the selected composition."
+      }
+    }
+  }
+}
